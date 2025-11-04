@@ -1,5 +1,5 @@
 # Mini Project: Simple Calculater
-# Using Variables, Conditionals and While loop
+# Using Variables, Conditionals and While loops
 #------------------------------------‐‐--------‐--‐-------‐---------
 while True:
      print("Simple Calculator")
